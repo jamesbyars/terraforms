@@ -1,3 +1,4 @@
 .idea
 *.tfstate*
 aws-web-server-with-sg/.terraform
+aws-s3-bucket/.terraform
